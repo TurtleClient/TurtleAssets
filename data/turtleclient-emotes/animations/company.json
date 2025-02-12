@@ -10,7 +10,7 @@
 	],
 	"moveable": true,
 	"abortable": false,
-	"loop": true
+	"loop": true,
 	"animations": {
 		"main": {
 			"animation_length": 36.7917,
