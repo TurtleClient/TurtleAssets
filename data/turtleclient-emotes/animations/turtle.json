@@ -9,6 +9,7 @@
 	],
 	"moveable": true,
 	"abortable": false,
+	"loop": true
 	"animations": {
 		"main": {
 			"animation_length": 215,
