@@ -9,7 +9,7 @@
 		"ROOT"
 	],
 	"moveable": true,
-	"abortable": false,
+	"abortable": true,
 	"loop": true,
 	"animations": {
 		"main": {
